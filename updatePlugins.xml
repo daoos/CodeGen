@@ -1,3 +1,3 @@
 <plugins>
-    <plugin id="CodeGen" url="https://raw.githubusercontent.com/hykes/codegen/repositories/CodeGen-v1.2.zip" version="1.2"/>
+    <plugin id="me.hehaiyang.codegen" url="https://raw.githubusercontent.com/hykes/codegen/repositories/CodeGen.zip" version="1.2.2"/>
 </plugins>
